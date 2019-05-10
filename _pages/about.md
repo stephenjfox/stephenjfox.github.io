@@ -3,6 +3,20 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+## About me
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I love fitness, learning, and speaking of intellectual matters. While I am yet to be one
+  of the creditted intelligentia, I am well on my way. Stay tuned ;)
+
+I am rather fond of emoji... You have been warned 😜
+
+## This blog
+
+It's a space where I'm going to dump my brain. Sometimes ideas deserve to live outside of
+  a notebook, so they might bite someone else; this blog exists to facilitate that brand
+  of virality.
+
+Post topics may inculde my Master's essays, programming ideas, random thoughts on music
+  and the world at large. I don't get political (I don't fit in the boxes anyway :P).
+
+
