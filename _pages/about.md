@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-## About me
+## Me
 
 I love fitness, learning, and speaking of intellectual matters. While I am yet to be one
   of the creditted intelligentia, I am well on my way. Stay tuned ;)
