@@ -22,14 +22,30 @@ After a visit to [the most invasive search engine][gsearch], I found a [relative
 
 That's as far as I can tell.
 
+---
+That [blog][blog root] that I mentioned previously pointed me towards a wonderful physicist:
+  [Sean Carroll and his blog][sean carroll physicist].
+
+I also discovered [Fermat's library], which is serving as a hub for tools for academics to work with their publishing.
+
+Lastly, thanks to [this post on that forgotten blog][blog explosive writing], I've found a comical tool to drive
+  creative, constructive output: [Squibler Writing Prompt Generator][explosive writing]
+* And what's a tool without [a community around it][daily writing community]
 
 
 [1]: https://en.wikipedia.org/wiki/Neil_deGrasse_Tyson
 [ndt on rogen, round 3]: https://www.youtube.com/watch?v=0pmviUS1Zac
+[gsearch]: https://www.google.com/search?q=astronomy+vs+cosmology
 [blog root]: https://vidyasagarv.com/
 [comparing astros]: https://vidyasagarv.com/difference-between-astronomy-astrophysics-and-cosmology/
-[gsearch]: https://www.google.com/search?q=astronomy+vs+cosmology
 
 [proper subset]: https://en.wikipedia.org/wiki/Subset#Definitions
 [atw]: https://en.wikipedia.org/wiki/Accessory_to_War
 [applied]: https://en.wikipedia.org/wiki/Applied_science
+
+[sean carroll physicist]: https://www.preposterousuniverse.com/blog/
+[Fermat's library]: https://fermatslibrary.com
+
+[explosive writing]: https://www.squibler.io/writing-prompt-generator
+[blog explosive writing]: https://vidyasagarv.com/the-most-dangerous-writing-app/
+[daily writing community]: https://750words.com
