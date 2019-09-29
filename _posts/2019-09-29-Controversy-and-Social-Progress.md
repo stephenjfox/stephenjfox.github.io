@@ -23,7 +23,7 @@ Because the aforementioned [Twitter thread] would become too long-winded and eph
 ---
 
 You see, I didn't think this was a batch of Right-leaning media, initially.
-  However, I am more cautious - now more than ever - of bodies that call themselves lauded titles such as "University" since I learned about [PragerU's agenda][PragerU: agenda] of [soundbytes][PragerU: soundbytes].
+  However, I am more cautious - now more than ever - of bodies that call themselves lauded titles such as "University" since I learned about [PragerU's agenda][Prager U: agenda] of [soundbytes][Prager U: soundbytes].
 * This is most disappointing because [one of my favorite intellectuals][JBP], who criticizes news
   media for its "60 second answers", has [two][Prager U Peterson: Dangerous Teaching] [videos][Prager U Peterson: Fix Yourself] on the platform 
 * This disappointment was somewhat alleviated in seeing the platform re-cut other footage of
@@ -66,7 +66,7 @@ My response:
     and (2) a main avenue for empathy. If you intend to persuade someone to your point of view, it tends
     to take patience and an understanding of another's person. If you've done no legwork on this front, you're
     hamstringing yourself to having a more personal interaction. On the other hand, if this was strictly for
-    [ad hominem] attacks, the [burden of proof] is on the university professors who signed the [statement against Hoover]
+    [ad hominem] attacks, the [burden of proof] is on the university professors who signed the [statement against Hoover][Stanford Daily: Statement on Hoover]
 * Does this mean that Hoover's permanence at Stanford should be questioned? If not for the [composition fallacy], the answer would be an easy, resounding "__Yes__". Given those darn fallacies, a further investigation or repeat offense(s) will convince me and prevail over my ows potential [logical error][fallacy fallacy]
 
 Stated differently, I think no one is hearing each other because many parties [are convinced of a false binary][black or white] when - in fact - solutions are more subtle than that.
