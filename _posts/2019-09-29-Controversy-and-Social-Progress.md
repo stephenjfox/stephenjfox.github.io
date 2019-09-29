@@ -4,10 +4,9 @@ title: "Controversy and Social Progress"
 date: 2019-09-29T11:22:46+00:00
 categories:
   - blog
-  - politics
   - society
 tags:
-  - update
+  - politics
 ---
 
 Originally from a [Twitter thread] that helped me put a few thoughts together, concisely.
@@ -25,13 +24,13 @@ Because the aforementioned [Twitter thread] would become too long-winded and eph
 You see, I didn't think this was a batch of Right-leaning media, initially.
   However, I am more cautious - now more than ever - of bodies that call themselves lauded titles such as "University" since I learned about [PragerU's agenda][Prager U: agenda] of [soundbytes][Prager U: soundbytes].
 * This is most disappointing because [one of my favorite intellectuals][JBP], who criticizes news
-  media for its "60 second answers", has [two][Prager U Peterson: Dangerous Teaching] [videos][Prager U Peterson: Fix Yourself] on the platform 
-* This disappointment was somewhat alleviated in seeing the platform re-cut other footage of
-  Peterson [as a smear-campaign against Elizabeth Warren][Prager U: Anti-Elizabeth]
+  media for its "60 second answers", has [two][Prager U Peterson: Dangerous Teaching] [videos][Prager U Peterson: Fix Yourself] on the platform. This disappointment was somewhat alleviated in seeing the platform re-cut other footage of
+  Peterson [as a smear-campaign against Elizabeth Warren][Prager U: Anti-Elizabeth], rather than letting Peterson speak on
+  the matter outright.
 
 So I did a brief Google search, to find that the Hoover Institution auto-completes to "conservative":
 
-![Hoover](../assets/images/2019-09-29/Hoover-Inst-Search.png)
+![Hoover](/assets/images/2019-09-29/Hoover-Inst-Search.png)
 
 
 Intrigued, I dug into the site. Actually following the _second_ suggested auto-completion, I found a
@@ -40,8 +39,7 @@ Intrigued, I dug into the site. Actually following the _second_ suggested auto-c
 What kept me reading was the continual "talking past each other". In one "top comment", there was a call-out of
   ["having missed the point"][Stanford Daily: Conseravite TC].
   * It was amazing to see that what has been occurring in my own life was actually happening at one of the most
-    prestige universities in the world, along the exact same lines.
-  * It's as if the ideological wars _are indeed_ penetrating our places of learning
+    prestige universities in the world, along the exact same lines. It's as if the ideological wars _are indeed_ penetrating our places of learning
 
 Upon reviewing [the cited original articale][Stanford Daily: Statement on Hoover], I got the pronounced feeling
   of "nobody's listening".
@@ -89,9 +87,7 @@ Here's the thought experiment:
   * In the latter case, progress cane be stalled. You can go around and around in circles, rehashing the same, tired arguments,
     never reaching resolution. But _you're inclusive_.
   * In the former case, we stop questioning assumptions. If we didn't question assumptions, there would be ground
-    [for a flat earth to stand on][FES]. Questioning assumptions has lead to breakthrough after breakthrough:
-    * The likes of Richard Feynman, Marie Curie, Ben Carson, or Ian Goodfellow.
-    * Breakthroughs change the name of the game of incremental progress.
+    [for a flat earth to stand on][FES]. Questioning assumptions has lead to breakthrough after breakthrough: Richard Feynman, Marie Curie, Ben Carson, or Ian Goodfellow. Breakthroughs change the name of the game of incremental progress.
   
 So which is better?
 
