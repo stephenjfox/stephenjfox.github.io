@@ -71,7 +71,7 @@ Stated differently, I think no one is hearing each other because many parties [a
 
 ---
 
-A [top commentor of the original statement][Stanford Daily: SoH TC] tears into the "whatabout-ism" that devolves these discussions. To summarize
+A [top commentor of the original statement][Stanford Daily: SoH TC] tears into the "whatabout-ism" that devolves these discussions. To summarize,
 
 > If one acts outside the code of conduct, in the name of their Institution, should the Actor or the Institution
   (along with the actor) be thrown out?
