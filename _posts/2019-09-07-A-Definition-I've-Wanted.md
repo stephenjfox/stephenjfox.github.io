@@ -6,7 +6,7 @@ I am a big fan of [Neil deGrasse Tyson][1], and he is an astrophysicist. As I st
 > What's the difference between an Astrophysicist and an Astronomer? Oh, and I was reminded of Cosmology an hour ago; what's that got to
   do with anything?
 
-After a visit to [the most invasive search engine][gsearch], I found a [relatively-forgotten blog][blog root] that started to cover the
+After a visit to [a knowledge graph-turned-search engine][gsearch], I found a [relatively-forgotten blog][blog root] that started to cover the
   difference. [Quoting Wikipedia][comparing astros] on the matter, here's the layman's rephrasing that leans on my penchant for Set Theory.
 
 ## Definitions

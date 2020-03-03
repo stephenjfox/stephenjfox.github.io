@@ -11,15 +11,16 @@ tags:
 
 오후 4시 22분
 Just had a very interesting experience rejecting a donut and being glad to do so.
-* Essentially, I experienced a visceral to the intense amount of sugar and the remarkable experience that I didn't receive
+
+* Essentially, I experienced a visceral amount of sugar and remarked that I didn't receive
   a pleasure response from said introduction of sugar into my system.
-* It _felt_ like the donut didn't have any appeal. Like it was this thing that was
+* It _felt_ like the donut didn't have any appeal. Like it was this thing that
   * Didn't taste good
   * Was 400 empty calories
-  * Reported made my tech lead feel tired and heavy.
+  * made my tech lead feel tired and heavy afterward.
 
-It was really something: reject what you know isn't good for you. Move a little slowly, ask yourself,
-  "is this really what I want". Then, just stop.
+It was really something: reject what I know won't be good for me. Move a little slowly, ask yourself,
+  "is this really what I want?" Then, just stop.
 
 Try it some time.
 
@@ -41,6 +42,8 @@ Basically, it seems to me that you shouldn't talk unless you've thought about so
   corrected by a more _knowledgeable_ source
 * note, __not__ someone with more "authority" (unless we align knowledge and authority, for philosopher kingdoms)
 
-Or don't say a word, because you never know when it's going to be your last
+Or don't say a word, because you never know when you're going to use up your last word.
+
+Make your speech count.
 
 [LW change your mind]: https://www.readthesequences.com/Book-II-How-To-Actually-Change-Your-Mind
