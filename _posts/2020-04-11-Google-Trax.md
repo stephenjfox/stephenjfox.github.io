@@ -23,7 +23,7 @@ Epistemic status: "cold take" distillation, as I've been exploring the codebase 
 
 [The Trax library](https://github.com/google/trax) works to be an easy ramp onto deep learning:
 
-![top lines of the project READ ME](2020-04-11-Google-Trax/header.png)
+![top lines of the project READ ME](/assets/images/2020-04-11-Google-Trax/header.png)
 
 Other notes:
 
